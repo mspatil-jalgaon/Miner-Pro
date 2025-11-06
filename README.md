@@ -54,8 +54,3 @@ Created by: **Er. Mukesh Patil**
 ## 📜 License
 Open-source, MIT License.
 ---
-
-✅ You can copy and paste this directly into your `README.md` — it’s GitHub-ready with proper Markdown formatting, emojis, code blocks, and sections.  
-
-```bash
-pip install pyperclip keyboard

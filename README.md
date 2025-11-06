@@ -36,34 +36,24 @@ Need something you copied earlier? Just double-click and it’s back on your cli
 ---
 
 ## ⚙️ Installation
-
-▶️ How to Use
-
+*▶️ How to Use*
 Just run:
-
+```
 python miner_pro.py
+```
+Copy something **(Ctrl + C)** and watch it pop up in Miner Pro.
+**Double-click** any item to copy it again.
+Hit **Clear All** if you want to start fresh.
 
-
-Copy something (Ctrl + C) and watch it pop up in Miner Pro.
-
-Double-click any item to copy it again.
-
-Hit Clear All if you want to start fresh.
-
-🧑‍💻 Developer
-
-Created by: Er. Mukesh Patil
+## 🧑‍💻 Developer
+Created by: **Er. Mukesh Patil**
 💙 Designed to boost your productivity and keep things simple.
 
-📜 License
-
+## 📜 License
 Open-source, MIT License.
-
-
 ---
 
 ✅ You can copy and paste this directly into your `README.md` — it’s GitHub-ready with proper Markdown formatting, emojis, code blocks, and sections.  
 
-Would you like me to add **badges** (like Python version, license, and stars) and a **preview image*
 ```bash
 pip install pyperclip keyboard

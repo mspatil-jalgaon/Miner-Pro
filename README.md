@@ -39,6 +39,7 @@ Need something you copied earlier? Just double-click and it’s back on your cli
 *▶️ How to Use*
 Just run:
 ```
+pip install pyperclip keyboard
 python miner_pro.py
 ```
 Copy something **(Ctrl + C)** and watch it pop up in Miner Pro.

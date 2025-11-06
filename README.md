@@ -5,6 +5,13 @@ It automatically tracks everything you copy (via **Ctrl + C**), stores it in a c
 
 ---
 
+##  💻 Windows Version (No Setup Needed)
+- Download 👉 miner_pro.zip (add your GitHub release link here)
+- Extract the ZIP file.
+- Run miner_pro.exe — no installation or Python required.
+- That’s it! Miner Pro will start watching your clipboard instantly.
+
+
 ## 🧾 Miner Pro — Smart Clipboard Manager
 
 Miner Pro is a simple, lightweight clipboard tool made with Python and Tkinter.  

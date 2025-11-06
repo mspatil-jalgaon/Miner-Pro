@@ -1,7 +1,8 @@
-# 🧾 Miner-Pro
+## 🧾 Miner Pro — Smart Clipboard Manager
 
-Miner Pro is a lightweight and elegant clipboard monitoring tool built with **Python (Tkinter)**.  
-It automatically tracks everything you copy (via **Ctrl + C**), stores it in a clean list, and lets you re-copy any previous item instantly with a double-click.
+Miner Pro is a simple, lightweight clipboard tool made with Python and Tkinter.  
+It quietly keeps track of everything you copy (just hit **Ctrl + C** like usual), then lines them up in a clean list.  
+Need something you copied earlier? Just double-click and it’s back on your clipboard.
 
 ---
 
@@ -10,13 +11,6 @@ It automatically tracks everything you copy (via **Ctrl + C**), stores it in a c
 - Extract the ZIP file.
 - Run miner_pro.exe — no installation or Python required.
 - That’s it! Miner Pro will start watching your clipboard instantly.
-
-
-## 🧾 Miner Pro — Smart Clipboard Manager
-
-Miner Pro is a simple, lightweight clipboard tool made with Python and Tkinter.  
-It quietly keeps track of everything you copy (just hit **Ctrl + C** like usual), then lines them up in a clean list.  
-Need something you copied earlier? Just double-click and it’s back on your clipboard.
 
 ---
 

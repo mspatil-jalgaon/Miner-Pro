@@ -1,3 +1,4 @@
+<img width="669" height="704" alt="image" src="https://github.com/user-attachments/assets/e757e00c-2f08-4299-870c-09e59249467d" />
 ## 🧾 Miner Pro — Smart Clipboard Manager
 
 Miner Pro is a simple, lightweight clipboard tool made with Python and Tkinter.  

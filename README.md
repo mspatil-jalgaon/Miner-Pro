@@ -1,4 +1,3 @@
-<img width="669" height="704" alt="image" src="https://github.com/user-attachments/assets/e757e00c-2f08-4299-870c-09e59249467d" />
 
 ---
 ## 🧾 Miner Pro — Smart Clipboard Manager
@@ -46,5 +45,4 @@ Hit **Clear All** if you want to start fresh.
 Created by: **Er. Mukesh Patil**
 💙 Designed to boost your productivity and keep things simple.
 
-Open-source, MIT License.
----
+<img width="669" height="704" alt="image" src="https://github.com/user-attachments/assets/e757e00c-2f08-4299-870c-09e59249467d" />

@@ -4,15 +4,11 @@ Miner Pro is a simple, lightweight clipboard tool made with Python and Tkinter.
 It quietly keeps track of everything you copy (just hit **Ctrl + C** like usual), then lines them up in a clean list.  
 Need something you copied earlier? Just double-click and it’s back on your clipboard.
 
----
-
 ##  💻 Windows Version (No Setup Needed)
 - Download 👉 miner_pro.zip (add your GitHub release link here)
 - Extract the ZIP file.
 - Run miner_pro.exe — no installation or Python required.
 - That’s it! Miner Pro will start watching your clipboard instantly.
-
----
 
 ## 🚀 Features
 
@@ -24,8 +20,6 @@ Need something you copied earlier? Just double-click and it’s back on your cli
 - 🎨 **Modern UI:** Minimal, responsive design with simple colors—nothing flashy, just easy on the eyes.  
 - 🔒 **Runs in the Background:** Keeps an eye on your clipboard the whole time, thanks to a background thread.  
 
----
-
 ## 🧩 Tech Stack
 
 - **Python 3.x**  
@@ -33,8 +27,6 @@ Need something you copied earlier? Just double-click and it’s back on your cli
 - **Pyperclip** for clipboard access  
 - **Keyboard** for catching Ctrl + C  
 - **Threading** & **time** modules handle background work  
-
----
 
 ## ⚙️ Installation
 *▶️ How to Use*
@@ -51,6 +43,5 @@ Hit **Clear All** if you want to start fresh.
 Created by: **Er. Mukesh Patil**
 💙 Designed to boost your productivity and keep things simple.
 
-## 📜 License
 Open-source, MIT License.
 ---
